@@ -3,8 +3,6 @@
 ## Leela Srinivasan
 
 ## Overview
-This repository corresponds to Leela Srinivasan (ls4233)'s final project for E4040: Neural Networks and Deep Learning, Fall 2025 under Professor Zoran Kostic. The report can be found in the repository under the name E4040.2025Fall.LSLS.report.ls4233.pdf.
-
 This project is a comparative study of the Nature Communications Biology paper "Neural models for detection and classification of brain states and transitions" by authors Arnau Marin-Llobet et al. The project aims to reproduce and expand upon the results reported by the authors in the study of classifying anesthesia-induced sleep states and transitions between them.
 
 ## Data Access
@@ -21,7 +19,7 @@ All models are currently trained and evaluated with saved results to encourage u
 
 ## Repository Tree
 ```
-e4040-fall2025-project-lsls/
+sleep-state-detection/
 ├── author_autoencoders
 │   ├── autoencoder_simpl_state_asynch_MA_epochs_150.h5
 │   ├── autoencoder_simpl_state_awake_epochs_150.h5
@@ -99,6 +97,8 @@ e4040-fall2025-project-lsls/
 │   ├── detect_transitions.ipynb
 │   └── supplementary.ipynb
 ├── README.md
+├── ref.pdf
+├── report.pdf
 └── utils
     ├── autoencoder_models.py
     ├── autoencoder_utils.py
