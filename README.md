@@ -1,6 +1,4 @@
-# E4040 2025 Fall Project
-## Neural models for detection and classification of brain states and transitions
-## Leela Srinivasan
+# Replicative Study: Neural models for detection and classification of brain states and transitions
 
 ## Overview
 This project is a comparative study of the Nature Communications Biology paper "Neural models for detection and classification of brain states and transitions" by authors Arnau Marin-Llobet et al. The project aims to reproduce and expand upon the results reported by the authors in the study of classifying anesthesia-induced sleep states and transitions between them.
