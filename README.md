@@ -4,7 +4,7 @@
 This project is a comparative study of the Nature Communications Biology paper "Neural models for detection and classification of brain states and transitions" by authors Arnau Marin-Llobet et al. The project aims to reproduce and expand upon the results reported by the authors in the study of classifying anesthesia-induced sleep states and transitions between them.
 
 ## Data Access
-The dataset must be downloaded directly from Zenodo: https://zenodo.org/records/14990181 and placed in the folder /data for easy interaction with the python notebook tutorials. The metadata file metadata_states.pkl containing ground truth labeling is stored under /data.
+The dataset must be downloaded directly from Zenodo: https://zenodo.org/records/14990181 and placed in the folder /data with the default name data_states.npy for easy interaction with the python notebook tutorials. The metadata file metadata_states.pkl containing ground truth labeling is stored under /data.
 
 ## Usage
 There are two principle python notebook tutorials in /notebooks to walk users through the described methods. Users can run the notebooks using Google Colaboratory on CPUs for convenience.
