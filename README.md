@@ -1,7 +1,7 @@
 # Replicative study: Neural models for detection and classification of brain states and transitions
 
 ## Overview
-This project is a comparative study of the Nature Communications Biology paper "Neural models for detection and classification of brain states and transitions" by authors Arnau Marin-Llobet et al. The project aims to reproduce and expand upon the results reported by the authors in the study of classifying anesthesia-induced sleep states and transitions between them.
+This project is a comparative study of the Nature Communications Biology paper "Neural models for detection and classification of brain states and transitions" by authors Arnau Marin-Llobet et al. The project aims to reproduce and expand upon the results reported by the authors in the study of classifying anesthesia-induced sleep states and transitions between them. This process is outlined in great detail in my attached report, uploaded to the repository [report.pdf].
 
 ## Data Access
 The dataset must be downloaded directly from Zenodo: https://zenodo.org/records/14990181 and placed in the folder /data with the default name data_states.npy for easy interaction with the python notebook tutorials. The metadata file metadata_states.pkl containing ground truth labeling is stored under /data.
